@@ -1,4 +1,4 @@
-# A Church in Revival
+# A Church Prepared for Revival
 
 *A Pilot Proposed*
 

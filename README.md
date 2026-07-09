@@ -1,4 +1,4 @@
-# A Church in Revival — A Pilot Proposed
+# A Church Prepared for Revival — A Pilot Proposed
 
 **Read the book:** https://jgtittle-ministries.github.io/a-church-in-revival-a-pilot-proposed/
 

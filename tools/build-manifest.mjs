@@ -16,7 +16,7 @@ const DOCS = join(ROOT, 'docs');
 
 // ---- Site-level config (the only thing you hand-set) ----
 const SITE = {
-  title: 'A Church in Revival',
+  title: 'A Church Prepared for Revival',
   subtitle: 'A Pilot Proposed',
   envLabel: '',                    // '' for prod, 'DEV' for the dev repo (point 7)
   license: { label: 'CC BY-SA 4.0', url: 'https://creativecommons.org/licenses/by-sa/4.0/' },
