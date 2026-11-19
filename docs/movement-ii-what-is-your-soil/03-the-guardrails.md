@@ -92,9 +92,9 @@ And one rule for reading the shape of the field, without which every reading dri
 
 ## Trust is soil
 
-One sentence gathers all seven commitments, and we offer it as the standard for this pilot and any church that takes it up: **measure nothing you will not weep over.**
+One sentence gathers all seven commitments, and we offer it as the standard for this pilot and any church that takes it up: **measure only what you are willing to shepherd.**
 
-Weeping is the test because weeping cannot be delegated and cannot be faked at scale. You can only weep over faces you know, souls you carry, people you will answer for. If your church can look at what it is learning about its people's hearts and be moved to prayer, to visits, to gentleness, to repentance — the knowledge is doing shepherd's work. If it is producing charts that no one grieves over, stop.
+Shepherding is the test because shepherding cannot be delegated and cannot be faked at scale. You can only shepherd faces you know, souls you carry, people you will answer for (Heb. 13:17). A shepherd still weeps over what he finds; the test asks first whether you will care for it. If your church can look at what it is learning about its people's hearts and be moved to prayer, to visits, to gentleness, to repentance — the knowledge is doing shepherd's work. If it is producing charts that no one grieves over or cares for, stop.
 
 And hear this clearly, because it is the reason these guardrails sit in the middle of a book about revival rather than in an appendix: these rules are not brakes on revival. They are soil preparation. Ask what actually has to be true in a congregation before hungry hearts will admit their hunger, before the numb will risk naming their winter, before anyone tells the leadership the truth. The answer is trust — and every commitment on this page is a trust-building act. A church that holds hearts *for* people, refuses to score them, works in daylight, guards its weakest, honors its truth-tellers, shelters its bruised reeds, and keeps knowledge at the scale of love is not slowing revival down. It is becoming the kind of ground where honest seed can risk breaking open. Trust *is* soil. Break up your fallow ground — this is what the plow looks like.
 
